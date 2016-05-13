@@ -3,4 +3,4 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<a href="ChristoperPubillonesResume.pdf"{% include ChristopherPubillonesResume.pdf %}>pdf file</a>
+<embed width="600" height="450" src="ChristopherPubillonesResume.pdf" type="application/pdf"></embed>
