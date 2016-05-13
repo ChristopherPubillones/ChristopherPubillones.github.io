@@ -11,7 +11,7 @@ Travel
 
 <ul class="fa-ul">
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Visit Every Continent</li>
-        <ul>
+        <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square" aria-hidden="true"></i>North America</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>South America</li>
             <li><i class="fa-li fa fa-check-square" aria-hidden="true"></i>Europe</li>
