@@ -9,7 +9,8 @@
 title: Christopher Pubillones
 email: cpubillones@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my personal website.
+  This is my personal website. Feel free to visit my social media accounts, or
+  send me an email, using the links on the left. Thanks for visiting!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ChrisPubillones
