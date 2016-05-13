@@ -7,5 +7,7 @@ Test Heading
 ===
 Test Heading
 ---
-- List
-- List
+
+* List
+
+* List
