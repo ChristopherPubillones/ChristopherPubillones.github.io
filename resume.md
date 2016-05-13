@@ -3,4 +3,4 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<p>US Citizen</p>
+<a href="ChristoperPubillonesResume.pdf">pdf file</a>
