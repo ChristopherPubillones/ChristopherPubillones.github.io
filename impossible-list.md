@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Impossible List
-permalink: /impossible-list/
+title: Challenge List
+permalink: /challenge-list/
 ---
 
-This is <em>NOT</em> a bucket list.
+This is <em>NOT</em> a bucket list. It's a challenge. 
 
 Life
 ===
