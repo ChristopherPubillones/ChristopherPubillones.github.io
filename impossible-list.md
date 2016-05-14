@@ -4,7 +4,7 @@ title: Challenge List
 permalink: /challenge-list/
 ---
 
-This is <em>NOT</em> a bucket list. It's a challenge. 
+This is <em>NOT</em> a bucket list. It's a challenge.
 
 Life
 ===
@@ -47,4 +47,5 @@ Skills
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Mandarin Chinese</li>
         </ul>
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Learn to Ballroom Dance</li>
+    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Learn a Form of Martial Arts</li>
 </ul>
