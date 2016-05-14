@@ -6,6 +6,13 @@ permalink: /impossible-list/
 
 This is <em>NOT</em> a bucket list.
 
+Life
+===
+
+<ul class="fa-ul">
+    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Be an Extra in a Movie</li>
+</ul>
+
 Travel
 ===
 
@@ -24,4 +31,19 @@ Travel
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Become an Estonian E-Citizen</li>
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Visit Victoria Falls and Swim in Devil's Pool</li>
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Live in Japan</li>
+</ul>
+
+Skills
+===
+
+<ul class="fa-ul">
+    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Become Fluent in 3+ Languages</li>
+        <ul class="fa-ul">
+            <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Japanese</li>
+            <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Spanish</li>
+            <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Esperanto</li>
+            <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Russian</li>
+            <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Mandarin Chinese</li>
+        </ul>
+    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Learn to Ballroom Dance</li>
 </ul>
