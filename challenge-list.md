@@ -11,6 +11,7 @@ Life
 
 <ul class="fa-ul">
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Be an Extra in a Movie</li>
+    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Set a Guinness World Record</li>
 </ul>
 
 Travel
