@@ -21,7 +21,7 @@ Travel
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Go to Space</li>
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Visit Every Continent</li>
         <ul class="fa-ul">
-            <li><i class="fa-li fa fa-check-square" aria-hidden="true"></i>North America</li>
+            <li><i class="fa-li fa fa-check-square" aria-hidden="true"></i>North America (Currently Living Here)</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>South America</li>
             <li><i class="fa-li fa fa-check-square" aria-hidden="true"></i>Europe</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Africa</li>
