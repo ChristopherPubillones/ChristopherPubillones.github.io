@@ -6,8 +6,8 @@ permalink: /contact-me/
 
 <form action="https://formspree.io/cpubillones@gmail.com"
       method="POST">
-    <input type="text" name="name" value="name"/>
-    <input type="email" name="_replyto" value="email"/>
+    <input type="text" name="name" placeholder="name"/>
+    <input type="email" name="_replyto" placeholder="email"/>
     <br>
     <textarea rows="4" cols="50" name="message"></textarea>
     <br>
