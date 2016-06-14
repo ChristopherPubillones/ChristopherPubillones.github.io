@@ -4,7 +4,7 @@ title: Challenge List
 permalink: /challenge-list/
 ---
 
-This is <em>NOT</em> a bucket list. It's a challenge.
+This is <em>NOT</em> a bucket list. It's a challenge to live life to the fullest.
 
 Life
 ===
