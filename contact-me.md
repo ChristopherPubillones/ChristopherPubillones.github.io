@@ -9,7 +9,7 @@ permalink: /contact-me/
     <input type="text" name="name" value="name">
     <input type="email" name="_replyto" value="email">
     <br>
-    <textarea rows="4" cols="100" name="message"></textarea>
+    <textarea rows="4" cols="50" name="message"></textarea>
     <br>
     <input type="submit" value="Send">
 </form>
