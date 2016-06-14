@@ -8,6 +8,6 @@ permalink: /contact-me/
       method="POST">
     <input type="text" name="name" value="name">
     <input type="email" name="_replyto" value="email">
-    <textarea type="message" name="message" value="message">
+    <textarea rows="4" cols="5" name="message" value="message"></textarea>
     <input type="submit" value="Send">
 </form>
