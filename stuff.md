@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Contact Me
-permalink: /contact-me/
+title: Stuff
+permalink: /stuff/
 ---
 
+There will be something here <em>EVENTUALLY!</em>
+
+<!--
+Old Contact Form (Ignore This)
 <body>
-        <form action="https://formspree.io/cpubillones@gmail.com" method="POST">
+        <form action="https://formspree.io/name@example.com" method="POST">
             <p>
                 <input type="text" name="name" placeholder="name"/>
                 <input type="email" name="_replyto" placeholder="email"/>
@@ -18,3 +22,4 @@ permalink: /contact-me/
             </p>
         </form>
 </body>
+-->
