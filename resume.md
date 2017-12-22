@@ -54,7 +54,7 @@ _Georgia Tech Ground Station Network (GTGSN): Student Researcher_
 
 Georgia Institute of Technology
 ===
-_Robotics and Computer Vision with Anki's Cozmo Robot (jan 2017 - May 2017)_
+_Robotics and Computer Vision with Anki's Cozmo Robot (Jan 2017 - May 2017)_
 
 **Collaborating with a partner to develop code in Python that uses Anki’s differential drive robot Cozmo**
 
