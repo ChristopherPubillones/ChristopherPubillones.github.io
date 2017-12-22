@@ -26,7 +26,7 @@ Research & Projects
 Georgia Institute of Technology
 ===
 
-### Georgia Tech Space Systems Design Lab (SSDL) (Jul 2014 - Present) ###
+## Georgia Tech Space Systems Design Lab (SSDL) (Jul 2014 - Present) ##
 
 _Prox-1: Guidance, Navigation, and Control (GN&C) / Mission Operations_
 
@@ -53,7 +53,7 @@ _Georgia Tech Ground Station Network (GTGSN): Student Researcher_
     <li>Preparing to operate a ground station for mission operations of upcoming Georgia Tech satellite missions</li>
 </ul>
 
-### Robotics and Computer Vision with Anki's Cozmo Robot (Jan 2017 - May 2017) ###
+## Robotics and Computer Vision with Anki's Cozmo Robot (Jan 2017 - May 2017) ##
 
 **Collaborating with a partner to develop code in Python that uses Anki’s differential drive robot Cozmo**
 
