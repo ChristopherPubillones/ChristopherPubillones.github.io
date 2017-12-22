@@ -41,6 +41,7 @@ Skills
 <ul class="fa-ul">
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Become Fluent in 3+ Languages</li>
         <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square" aria-hidden="true"></i>English</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Japanese</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Spanish</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Esperanto</li>
