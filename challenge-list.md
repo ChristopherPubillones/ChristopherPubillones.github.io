@@ -29,8 +29,6 @@ Travel
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Oceania</li>
             <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Antarctica</li>
         </ul>
-    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Obtain Dual Citizenship</li>
-    <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Become an Estonian E-Citizen</li>
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Visit Victoria Falls and Swim in Devil's Pool</li>
     <li><i class="fa-li fa fa-square" aria-hidden="true"></i>Live in Japan</li>
 </ul>
